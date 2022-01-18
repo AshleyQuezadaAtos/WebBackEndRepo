@@ -1,0 +1,9 @@
+C:\Users\a843683\Source\Repos\WebBackEndRepo\src\src\obj\Debug\net6.0\WebBackEndRepo.csproj.AssemblyReference.cache
+C:\Users\a843683\Source\Repos\WebBackEndRepo\src\src\obj\Debug\net6.0\WebBackEndRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a843683\Source\Repos\WebBackEndRepo\src\src\obj\Debug\net6.0\WebBackEndRepo.AssemblyInfoInputs.cache
+C:\Users\a843683\Source\Repos\WebBackEndRepo\src\src\obj\Debug\net6.0\WebBackEndRepo.AssemblyInfo.cs
+C:\Users\a843683\Source\Repos\WebBackEndRepo\src\src\obj\Debug\net6.0\WebBackEndRepo.csproj.CoreCompileInputs.cache
+C:\Users\a843683\Source\Repos\WebBackEndRepo\src\src\obj\Debug\net6.0\WebBackEndRepo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\a843683\Source\Repos\WebBackEndRepo\src\src\obj\Debug\net6.0\WebBackEndRepo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a843683\Source\Repos\WebBackEndRepo\src\src\obj\Debug\net6.0\WebBackEndRepo.RazorAssemblyInfo.cache
+C:\Users\a843683\Source\Repos\WebBackEndRepo\src\src\obj\Debug\net6.0\WebBackEndRepo.RazorAssemblyInfo.cs

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCourseRepo", "WebCourseRepo.csproj", "{C75820A3-1753-4BC4-A67D-C2601CD0F8AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C75820A3-1753-4BC4-A67D-C2601CD0F8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75820A3-1753-4BC4-A67D-C2601CD0F8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75820A3-1753-4BC4-A67D-C2601CD0F8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75820A3-1753-4BC4-A67D-C2601CD0F8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35753692-1E1D-4A9B-A991-C67B53A8D11F}
+	EndGlobalSection
+EndGlobal
