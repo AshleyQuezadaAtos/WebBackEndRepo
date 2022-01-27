@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbUVBE69pXyVKnAZcZKRjj0gsrJhohDJbQX39DfRyArEg+x/rjrNlwRdDOFMwKFewTmQ5XdzoEJGlb5Q2BRZkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a843683\\Source\\Repos\\WebBackEndRepo\\WebBackEndAPI\\WebBackEndAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a843683\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\a843683\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\a843683\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\a843683\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\a843683\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
